@@ -29,7 +29,7 @@ class String
   end
 
   def count_sentences
-    if self.end_with?(".")
+    new array = 
 
   end
 end
